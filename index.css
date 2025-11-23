@@ -1,0 +1,10 @@
+/* The @tailwind directives are removed because 
+  you are using the CDN script in index.html.
+*/
+
+body {
+  background-color: #ffffff;
+  color: #171717;
+  margin: 0;
+  font-family: sans-serif;
+}
